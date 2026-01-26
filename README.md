@@ -52,7 +52,7 @@ src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53
 
 <!-- Java animated GIF -->
 <a href="https://www.java.com/" target="_blank">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 </a>
 
 <!-- Selenium static SVG -->
