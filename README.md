@@ -69,14 +69,6 @@ src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishal98gupta&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal98gupta&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="left">💼 Expertise:</h3>
 <ul>
   <li>Automation Testing with Java, Selenium, Playwright, and TypeScript</li>
