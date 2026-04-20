@@ -33,39 +33,41 @@ src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53
 ---
 
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
 
-<!-- AWS static -->
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="AWS" width="45" height="45"/>
-</a>
-
-<!-- Firebase static -->
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-</a>
-
-<!-- Git GIF hosted in repo -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="45" height="45"/>
-</a>
-
-<!-- Java animated GIF -->
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-</a>
-
-<!-- Selenium static SVG -->
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45"/>
-</a>
-
-<!-- TypeScript animated GIF -->
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-</a>
-
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="AWS" width="45" height="45"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="45" height="45"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
